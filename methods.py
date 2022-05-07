@@ -28,3 +28,6 @@ print(concat_strings("World", "Wide", "Group"))
 my_func = lambda num: "High" if num > 50 else "Low"
 
 print(my_func(30))
+
+# Lambdas are better suited in function arguments
+
