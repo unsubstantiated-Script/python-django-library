@@ -1,3 +1,4 @@
+# simple structuring of if/else clauses
 price = 200
 
 if price >= 300:
